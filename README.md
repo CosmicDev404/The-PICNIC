@@ -1,2 +1,1 @@
-# The-PICNIC
-Horror Interactive Fiction
+https://the-picnic.netlify.app
