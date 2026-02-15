@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://the-picnic.netlify.app/sitemap1.xml

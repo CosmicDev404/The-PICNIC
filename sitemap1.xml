@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://the-picnic.netlify.app/</loc>
+    <lastmod>2025-09-06</lastmod>
+    <priority>1.00</priority>
+
+    <image:image>
+      <image:loc>https://the-picnic.netlify.app/chitrakatha.png</image:loc>
+      <image:caption>Chitrakatha horror illustration from The Picnic game</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://the-picnic.netlify.app/preview.png</image:loc>
+      <image:caption>The Picnic official preview artwork — demon, eerie river, haunted cabin</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://the-picnic.netlify.app/preview_alt.png</image:loc>
+      <image:caption>The Picnic preview portrait — mistful forest atmosphere</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://the-picnic.netlify.app/MainTitle.png</image:loc>
+      <image:caption>The Picnic main title artwork</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://the-picnic.netlify.app/titleart.png</image:loc>
+      <image:caption>The Picnic subtitle artwork</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://the-picnic.netlify.app/fevicon.png</image:loc>
+      <image:caption>The Picnic icon — spooky tree logo</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://the-picnic.netlify.app/characters.png</image:loc>
+      <image:caption>The Picnic horror game characters — demon Samsa, cannibals, old man, well, and haunted cabin</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://the-picnic.netlify.app/chitrakatha</loc>
+    <lastmod>2025-09-06</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
