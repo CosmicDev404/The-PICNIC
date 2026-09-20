@@ -17,3 +17,12 @@ Check out the GitHub Wiki for development updates: [Devlog](https://github.com/C
 ## THE PICNIC is now open source!
 
 You are now free to modify source code and every file of the og the-picnic site is available in this repo. You are free to clone, copy, update, rebuild, download, build upon this model. Creative storytelling and newer creations are encouraged.
+
+## AI DISCLOSURE
+
+No seriously, AI was used for...
+- LLMs such as ChatGPT and Gemini were used during development for SEO optimisation, branding, image generation, styling, debugging, and other supporting tasks.
+
+- The core creative work — including the story, setting, characters, and overall concept — was created by the developer without LLM-generated content. The basic code structure and project direction were also established by the developer.
+
+- AI-generated suggestions and assets were reviewed and integrated by the developer rather than being accepted blindly. 
