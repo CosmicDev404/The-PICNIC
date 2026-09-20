@@ -20,9 +20,9 @@ You are now free to modify source code and every file of the og the-picnic site 
 
 ## AI DISCLOSURE
 
-No seriously, AI was used for...
-- LLMs such as ChatGPT and Gemini were used during development for SEO optimisation, branding, image generation, styling, debugging, and other supporting tasks.
+No seriously, Large Language Models (LLMs) including ChatGPT and Gemini were used to assist during the development of this project.
 
-- The core creative work — including the story, setting, characters, and overall concept — was created by the developer without LLM-generated content. The basic code structure and project direction were also established by the developer.
+- **Human Core:** The core creative work—including the story, setting, characters, and overall concept—was entirely conceived and written by the developer without LLM assistance. The fundamental code structure and project direction were also established by hand.
+- **AI Assistance:** LLMs were utilized for supporting tasks such as SEO optimization, branding ideas, asset/image generation, CSS styling tweaks, and debugging.
+- **Oversight:** No AI-generated code or assets were accepted blindly; all suggestions were manually reviewed, verified, and integrated by the developer.
 
-- AI-generated suggestions and assets were reviewed and integrated by the developer rather than being accepted blindly. 
